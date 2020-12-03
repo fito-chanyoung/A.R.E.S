@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="red" size="283.000000 424.765472" />
+    <ImageTarget name="YOGURT" size="0.062000 0.099693" />
+    <ImageTarget name="WOLF" size="0.062000 0.099693" />
+    <ImageTarget name="VILLAGE" size="0.062000 0.099693" />
+    <ImageTarget name="TOMATO" size="0.062000 0.099693" />
+    <ImageTarget name="Three" size="0.062000 0.099693" />
+    <ImageTarget name="STEAK" size="0.062000 0.099693" />
+    <ImageTarget name="Small" size="0.062000 0.099693" />
+    <ImageTarget name="RABBIT" size="0.062000 0.099693" />
+    <ImageTarget name="PIZZA" size="0.062000 0.099693" />
+    <ImageTarget name="ORANGE" size="0.062000 0.099693" />
+    <ImageTarget name="LEMON" size="0.062000 0.099693" />
+    <ImageTarget name="JUICE" size="0.062000 0.099693" />
+    <ImageTarget name="ICECREAM" size="0.062000 0.099693" />
+    <ImageTarget name="HAMBURGER" size="0.062000 0.099693" />
+    <ImageTarget name="GRAPE" size="0.062000 0.099693" />
+    <ImageTarget name="FLOWER" size="0.062000 0.099693" />
+    <ImageTarget name="EGG" size="0.062000 0.099693" />
+    <ImageTarget name="DEER" size="0.062000 0.099693" />
+    <ImageTarget name="CHERRY" size="0.062000 0.099693" />
+    <ImageTarget name="big2" size="0.062000 0.099693" />
+    <ImageTarget name="Big" size="0.062000 0.099693" />
+    <ImageTarget name="BANANA" size="0.062000 0.099693" />
+    <ImageTarget name="APPLE" size="0.062000 0.099693" />
+  </Tracking>
+</QCARConfig>

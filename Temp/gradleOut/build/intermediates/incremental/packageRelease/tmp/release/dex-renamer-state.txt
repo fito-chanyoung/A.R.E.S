@@ -1,0 +1,4 @@
+#Sat Dec 07 14:45:32 KST 2019
+base.0=C\:\\Users\\scm02\\OneDrive\\AR_traning\\AR_tranin\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
